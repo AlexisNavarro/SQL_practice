@@ -1,0 +1,1 @@
+Insert INTO Employees values(1, "Alexis", "Navarro", "test@email.com");
