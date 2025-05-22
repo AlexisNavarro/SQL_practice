@@ -1,0 +1,2 @@
+--quert to select name, population and area if a country has at least an area of 3000000 and population of at least 25000000
+SELECT name, population, area from World where area >= 3000000 or population >=25000000;
